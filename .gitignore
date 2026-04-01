@@ -1,0 +1,21 @@
+# SSH keys (НИКОГДА не коммитить!)
+keys/
+*.key
+*.pem
+*.pub
+
+# Python
+__pycache__/
+*.pyc
+
+# Docker
+data/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
